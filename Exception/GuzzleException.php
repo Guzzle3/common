@@ -1,6 +1,6 @@
 <?php
 
-namespace Guzzle\Common;
+namespace Guzzle\Common\Exception;
 
 /**
  * Guzzle exception
